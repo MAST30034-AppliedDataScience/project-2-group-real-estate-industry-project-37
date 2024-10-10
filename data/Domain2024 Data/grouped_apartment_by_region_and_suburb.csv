@@ -1,0 +1,425 @@
+Region,Suburb,Property_Count,Median_Weekly_Price
+Ballarat,Alfredton,1,300.0
+Ballarat,Ballarat Central,7,380.0
+Ballarat,Lake Wendouree,4,415.0
+Ballarat,Sebastopol,6,426.5
+Ballarat,Wendouree,7,325.0
+Bendigo,Bendigo,9,430.0
+Bendigo,Golden Point,1,370.0
+Bendigo,Golden Square,1,460.0
+Geelong,Belmont,5,360.0
+Geelong,Corio,4,370.0
+Geelong,Geelong,27,520.0
+Geelong,Grovedale,8,415.0
+Geelong,Lara,2,375.0
+Geelong,Newtown,8,420.0
+Inner Eastern Melbourne,Ashburton,2,732.5
+Inner Eastern Melbourne,Balwyn,10,600.0
+Inner Eastern Melbourne,Blackburn,8,425.0
+Inner Eastern Melbourne,Bulleen,7,495.0
+Inner Eastern Melbourne,Burwood,21,385.0
+Inner Eastern Melbourne,Camberwell,28,605.0
+Inner Eastern Melbourne,Canterbury,7,595.0
+Inner Eastern Melbourne,Chadstone,9,580.0
+Inner Eastern Melbourne,Clayton,48,500.0
+Inner Eastern Melbourne,Doncaster,29,620.0
+Inner Eastern Melbourne,Donvale,2,597.5
+Inner Eastern Melbourne,Endeavour Hills,2,520.0
+Inner Eastern Melbourne,Glen Huntly,9,500.0
+Inner Eastern Melbourne,Glen Iris,33,515.0
+Inner Eastern Melbourne,Glen Waverley,17,650.0
+Inner Eastern Melbourne,Hawthorn,76,513.0
+Inner Eastern Melbourne,Kew,32,577.5
+Inner Eastern Melbourne,Mitcham,12,507.5
+Inner Eastern Melbourne,Mount Eliza,1,540.0
+Inner Eastern Melbourne,Mount Helen,1,320.0
+Inner Eastern Melbourne,Mount Martha,2,610.0
+Inner Eastern Melbourne,Mount Pleasant,1,330.0
+Inner Eastern Melbourne,Mount Waverley,7,650.0
+Inner Eastern Melbourne,Mulgrave,2,460.0
+Inner Eastern Melbourne,Nunawading,10,500.0
+Inner Eastern Melbourne,Oakleigh,9,620.0
+Inner Eastern Melbourne,Surrey Hills,6,532.5
+Inner Eastern Melbourne,Templestowe,4,560.0
+Inner Eastern Melbourne,Templestowe Lower,3,530.0
+Inner Eastern Melbourne,Vermont,1,475.0
+Inner Eastern Melbourne,White Hills,1,320.0
+Inner Melbourne,Abbotsford,52,660.0
+Inner Melbourne,Airport West,4,510.0
+Inner Melbourne,Albert Park,3,585.0
+Inner Melbourne,Altona North,5,400.0
+Inner Melbourne,Armadale,26,562.5
+Inner Melbourne,Ballarat East,3,340.0
+Inner Melbourne,Balwyn North,9,550.0
+Inner Melbourne,Bell Park,5,430.0
+Inner Melbourne,Bell Post Hill,1,420.0
+Inner Melbourne,Bentleigh East,11,580.0
+Inner Melbourne,Black Hill,2,407.5
+Inner Melbourne,Blackburn North,1,475.0
+Inner Melbourne,Blackburn South,2,562.5
+Inner Melbourne,Box Hill,100,600.0
+Inner Melbourne,Box Hill North,5,585.0
+Inner Melbourne,Box Hill South,2,565.0
+Inner Melbourne,Briar Hill,1,430.0
+Inner Melbourne,Brighton East,2,662.5
+Inner Melbourne,Brown Hill,2,345.0
+Inner Melbourne,Brunswick East,50,600.0
+Inner Melbourne,Brunswick West,46,500.0
+Inner Melbourne,Burnley,1,480.0
+Inner Melbourne,Burwood East,11,590.0
+Inner Melbourne,Carlton,147,575.0
+Inner Melbourne,Carlton North,11,570.0
+Inner Melbourne,Caulfield East,6,470.0
+Inner Melbourne,Caulfield North,52,577.5
+Inner Melbourne,Caulfield South,11,475.0
+Inner Melbourne,Clayton South,14,510.0
+Inner Melbourne,Clifton Hill,4,575.0
+Inner Melbourne,Clifton Springs,1,440.0
+Inner Melbourne,Collingwood,41,630.0
+Inner Melbourne,Cranbourne North,1,525.0
+Inner Melbourne,Croydon North,1,470.0
+Inner Melbourne,Dandenong North,6,445.0
+Inner Melbourne,Dandenong South,1,330.0
+Inner Melbourne,Deer Park,1,280.0
+Inner Melbourne,Docklands,171,680.0
+Inner Melbourne,Doncaster East,19,560.0
+Inner Melbourne,East Bairnsdale,1,340.0
+Inner Melbourne,East Geelong,3,350.0
+Inner Melbourne,East Melbourne,30,640.0
+Inner Melbourne,Elwood,56,550.0
+Inner Melbourne,Essendon North,21,490.0
+Inner Melbourne,Essendon West,1,570.0
+Inner Melbourne,Fitzroy,24,632.5
+Inner Melbourne,Fitzroy North,20,615.0
+Inner Melbourne,Flemington,31,550.0
+Inner Melbourne,Flora Hill,2,392.5
+Inner Melbourne,Forest Hill,3,625.0
+Inner Melbourne,Frankston North,2,324.0
+Inner Melbourne,Frankston South,1,600.0
+Inner Melbourne,Geelong West,6,345.0
+Inner Melbourne,Hampton East,4,517.5
+Inner Melbourne,Hampton Park,1,460.0
+Inner Melbourne,Hawthorn East,50,550.0
+Inner Melbourne,Heidelberg West,2,577.5
+Inner Melbourne,Herne Hill,3,390.0
+Inner Melbourne,Invermay Park,1,360.0
+Inner Melbourne,Ivanhoe East,2,445.0
+Inner Melbourne,Keilor East,4,590.0
+Inner Melbourne,Kensington,26,606.5
+Inner Melbourne,Kew East,1,495.0
+Inner Melbourne,Malvern East,46,525.0
+Inner Melbourne,Melbourne,900,650.0
+Inner Melbourne,Melbourne 3004,1,410.0
+Inner Melbourne,Melton South,5,350.0
+Inner Melbourne,Middle Park,7,575.0
+Inner Melbourne,Mill Park,5,480.0
+Inner Melbourne,Mont Albert,4,565.0
+Inner Melbourne,Mont Albert North,4,550.0
+Inner Melbourne,Noble Park,14,500.0
+Inner Melbourne,Noble Park North,2,312.5
+Inner Melbourne,North Geelong,1,420.0
+Inner Melbourne,North Melbourne,66,550.0
+Inner Melbourne,North Shore,1,300.0
+Inner Melbourne,North Wonthaggi,1,380.0
+Inner Melbourne,Notting Hill,5,600.0
+Inner Melbourne,Oak Park,2,612.5
+Inner Melbourne,Oakleigh East,4,565.0
+Inner Melbourne,Oakleigh South,4,595.0
+Inner Melbourne,Parkville,28,522.5
+Inner Melbourne,Port Fairy,4,402.5
+Inner Melbourne,Port Melbourne,40,692.5
+Inner Melbourne,Prahran,68,522.5
+Inner Melbourne,Preston West,1,450.0
+Inner Melbourne,Quarry Hill,3,450.0
+Inner Melbourne,Richmond,92,597.5
+Inner Melbourne,Ringwood East,5,500.0
+Inner Melbourne,Ringwood North,1,600.0
+Inner Melbourne,Roxburgh Park,1,320.0
+Inner Melbourne,Soldiers Hill,2,325.0
+Inner Melbourne,South Kingsville,1,470.0
+Inner Melbourne,South Melbourne,64,650.0
+Inner Melbourne,South Yarra,193,600.0
+Inner Melbourne,Southbank,365,680.0
+Inner Melbourne,Springvale South,2,485.0
+Inner Melbourne,St Albans,15,420.0
+Inner Melbourne,St Albans Park,2,473.0
+Inner Melbourne,St Kilda,153,550.0
+Inner Melbourne,St Kilda East,48,525.0
+Inner Melbourne,St Kilda West,12,492.5
+Inner Melbourne,St Leonards,2,407.5
+Inner Melbourne,Sunshine North,3,460.0
+Inner Melbourne,Sunshine West,1,520.0
+Inner Melbourne,Swan Hill,1,380.0
+Inner Melbourne,Toorak,35,600.0
+Inner Melbourne,Vermont South,1,650.0
+Inner Melbourne,Wantirna South,2,515.0
+Inner Melbourne,Werribee South,8,455.0
+Inner Melbourne,West Footscray,16,390.0
+Inner Melbourne,West Melbourne,83,650.0
+Inner Melbourne,West Wodonga,1,320.0
+Inner Melbourne,Wheelers Hill,3,645.0
+Inner Melbourne,Windsor,23,480.0
+Inner Melbourne,Yarra Junction,1,495.0
+Mornington Peninsula,Dromana,2,500.0
+Mornington Peninsula,Flinders,2,625.0
+Mornington Peninsula,Frankston,39,410.0
+Mornington Peninsula,Hastings,3,500.0
+Mornington Peninsula,Mornington,9,600.0
+Mornington Peninsula,Portsea,1,1100.0
+Mornington Peninsula,Seaford,12,432.5
+North Eastern Melbourne,Alphington,8,547.5
+North Eastern Melbourne,Bundoora,10,412.5
+North Eastern Melbourne,Eltham,1,480.0
+North Eastern Melbourne,Epping,8,450.0
+North Eastern Melbourne,Fairfield,9,460.0
+North Eastern Melbourne,Greensborough,4,490.0
+North Eastern Melbourne,Heidelberg,16,500.0
+North Eastern Melbourne,Ivanhoe,23,550.0
+North Eastern Melbourne,Lalor,3,430.0
+North Eastern Melbourne,Northcote,20,500.0
+North Eastern Melbourne,Preston,43,495.0
+North Eastern Melbourne,Reservoir,26,480.0
+North Eastern Melbourne,Thomastown,6,435.0
+North Eastern Melbourne,Thornbury,27,440.0
+North Eastern Melbourne,Whittlesea,1,450.0
+North Western Melbourne,Ascot Vale,16,482.5
+North Western Melbourne,Broadmeadows,6,430.0
+North Western Melbourne,Brunswick,47,525.0
+North Western Melbourne,Coburg,27,520.0
+North Western Melbourne,Craigieburn,2,475.0
+North Western Melbourne,Essendon,36,500.0
+North Western Melbourne,Fawkner,3,500.0
+North Western Melbourne,Glenroy,17,475.0
+North Western Melbourne,Moonee Ponds,26,540.0
+North Western Melbourne,Pascoe Vale,13,485.0
+North Western Melbourne,Tullamarine,12,465.0
+North Western Melbourne,Wyndham Vale,6,420.0
+Other Regional Centres,Bairnsdale,4,350.0
+Other Regional Centres,Barwon Heads,1,500.0
+Other Regional Centres,Benalla,1,380.0
+Other Regional Centres,Castlemaine,3,385.0
+Other Regional Centres,Echuca,5,421.0
+Other Regional Centres,Hamilton,3,290.0
+Other Regional Centres,Horsham,5,330.0
+Other Regional Centres,Mildura,12,355.0
+Other Regional Centres,Moe,4,285.0
+Other Regional Centres,Morwell,11,270.0
+Other Regional Centres,Newborough,2,217.5
+Other Regional Centres,Ocean Grove,5,450.0
+Other Regional Centres,Portland,5,380.0
+Other Regional Centres,Sale,5,270.0
+Other Regional Centres,Seymour,3,350.0
+Other Regional Centres,Shepparton,22,335.0
+Other Regional Centres,Torquay,2,595.0
+Other Regional Centres,Traralgon,7,285.0
+Other Regional Centres,Warragul,1,420.0
+Other Regional Centres,Warrnambool,2,420.0
+Other Regional Centres,Wodonga,11,370.0
+Outer Eastern Melbourne,Bayswater,6,520.0
+Outer Eastern Melbourne,Boronia,10,530.0
+Outer Eastern Melbourne,Croydon,7,500.0
+Outer Eastern Melbourne,Ferntree Gully,9,550.0
+Outer Eastern Melbourne,Lilydale,2,615.0
+Outer Eastern Melbourne,Ringwood,17,500.0
+Outer Eastern Melbourne,Rowville,1,400.0
+Outer Eastern Melbourne,Spring Gully,1,450.0
+Outer Western Melbourne,Altona,9,550.0
+Outer Western Melbourne,Altona Meadows,6,460.0
+Outer Western Melbourne,Avondale Heights,1,410.0
+Outer Western Melbourne,Footscray,94,520.0
+Outer Western Melbourne,Hamlyn Heights,2,375.0
+Outer Western Melbourne,Heidelberg Heights,2,522.5
+Outer Western Melbourne,Hoppers Crossing,8,320.0
+Outer Western Melbourne,Keilor Lodge,1,480.0
+Outer Western Melbourne,Meadow Heights,5,460.0
+Outer Western Melbourne,Melton,2,425.0
+Outer Western Melbourne,Newport,2,530.0
+Outer Western Melbourne,Seddon,4,415.0
+Outer Western Melbourne,Spotswood,5,635.0
+Outer Western Melbourne,Strathmore Heights,1,600.0
+Outer Western Melbourne,Sunshine,3,430.0
+Outer Western Melbourne,Sydenham,2,467.5
+Outer Western Melbourne,Wandana Heights,1,310.0
+Outer Western Melbourne,Werribee,12,395.0
+Outer Western Melbourne,Williamstown,19,650.0
+Outer Western Melbourne,Yarraville,10,535.0
+South Eastern Melbourne,Berwick,3,375.0
+South Eastern Melbourne,Cranbourne,9,460.0
+South Eastern Melbourne,Dandenong,31,440.0
+South Eastern Melbourne,Narre Warren,3,435.0
+South Eastern Melbourne,Pakenham,6,395.0
+South Eastern Melbourne,Springvale,11,530.0
+Southern Melbourne,Aspendale,2,595.0
+Southern Melbourne,Beaumaris,1,1450.0
+Southern Melbourne,Bentleigh,18,635.0
+Southern Melbourne,Brighton,19,695.0
+Southern Melbourne,Carnegie,47,500.0
+Southern Melbourne,Carrum,3,550.0
+Southern Melbourne,Carrum Downs,5,460.0
+Southern Melbourne,Caulfield,15,600.0
+Southern Melbourne,Chelsea,7,490.0
+Southern Melbourne,Chelsea Heights,1,675.0
+Southern Melbourne,Cheltenham,20,500.0
+Southern Melbourne,Elsternwick,23,640.0
+Southern Melbourne,Hampton,8,1300.0
+Southern Melbourne,Hughesdale,9,590.0
+Southern Melbourne,Malvern,17,640.0
+Southern Melbourne,Mentone,17,595.0
+Southern Melbourne,Mordialloc,11,500.0
+Southern Melbourne,Murrumbeena,18,502.5
+Southern Melbourne,Parkdale,11,550.0
+Unknown Region,,25,790.0
+Unknown Region,Aberfeldie,2,435.0
+Unknown Region,Aintree,1,500.0
+Unknown Region,Aireys Inlet,1,625.0
+Unknown Region,Albion,6,345.0
+Unknown Region,Apollo Bay,1,465.0
+Unknown Region,Ararat,1,310.0
+Unknown Region,Ardeer,1,460.0
+Unknown Region,Ashwood,2,475.0
+Unknown Region,Bacchus Marsh,2,403.0
+Unknown Region,Balaclava,15,600.0
+Unknown Region,Barongarook,1,380.0
+Unknown Region,Baxter,1,550.0
+Unknown Region,Beaconsfield,1,360.0
+Unknown Region,Beechworth,2,260.0
+Unknown Region,Black Rock,1,560.0
+Unknown Region,Blairgowrie,1,650.0
+Unknown Region,Bolwarra,1,285.0
+Unknown Region,Bonbeach,4,547.5
+Unknown Region,Braybrook,1,450.0
+Unknown Region,Briagolong,1,365.0
+Unknown Region,Brookfield,1,553.0
+Unknown Region,Bundalong,1,450.0
+Unknown Region,Bushfield,1,600.0
+Unknown Region,Campbellfield,2,375.0
+Unknown Region,Camperdown,1,310.0
+Unknown Region,Canadian,3,300.0
+Unknown Region,Cape Paterson,1,350.0
+Unknown Region,Capel Sound,2,460.0
+Unknown Region,Caroline Springs,2,470.0
+Unknown Region,Chewton,1,360.0
+Unknown Region,Cobram,3,350.0
+Unknown Region,Colac,1,385.0
+Unknown Region,Cowes,1,550.0
+Unknown Region,Crib Point,1,340.0
+Unknown Region,Dallas,1,310.0
+Unknown Region,Darley,1,420.0
+Unknown Region,Daylesford,2,425.0
+Unknown Region,Deepdene,2,685.0
+Unknown Region,Delahey,2,395.0
+Unknown Region,Dimboola,1,250.0
+Unknown Region,Doreen,1,440.0
+Unknown Region,Doveton,1,460.0
+Unknown Region,Drouin,3,450.0
+Unknown Region,Drumcondra,1,670.0
+Unknown Region,Drysdale,1,400.0
+Unknown Region,Eagle Point,1,430.0
+Unknown Region,Eaglemont,2,565.0
+Unknown Region,Edenhope,1,230.0
+Unknown Region,Edithvale,3,595.0
+Unknown Region,Eumemmerring,2,495.0
+Unknown Region,Euroa,3,340.0
+Unknown Region,Foster,1,275.0
+Unknown Region,Gardenvale,3,430.0
+Unknown Region,Gisborne,1,295.0
+Unknown Region,Glenburn,2,360.0
+Unknown Region,Greenvale,1,450.0
+Unknown Region,Hadfield,4,455.0
+Unknown Region,Hallam,3,400.0
+Unknown Region,Harkness,2,400.0
+Unknown Region,Heathmont,1,630.0
+Unknown Region,Highett,2,647.5
+Unknown Region,Highton,14,405.0
+Unknown Region,Hillside,1,410.0
+Unknown Region,Hopetoun,1,200.0
+Unknown Region,Huntingdale,1,470.0
+Unknown Region,Huntly,1,275.0
+Unknown Region,Inverloch,1,460.0
+Unknown Region,Kallista,1,560.0
+Unknown Region,Kealba,1,450.0
+Unknown Region,Kerang,1,210.0
+Unknown Region,Keysborough,1,650.0
+Unknown Region,Kialla,4,517.5
+Unknown Region,Kilmore,1,330.0
+Unknown Region,Kilsyth,1,520.0
+Unknown Region,Kingsbury,3,430.0
+Unknown Region,Kingsville,5,410.0
+Unknown Region,Knoxfield,2,685.0
+Unknown Region,Kooyong,1,490.0
+Unknown Region,Kyabram,1,340.0
+Unknown Region,Kyneton,3,430.0
+Unknown Region,Lake Bunga,2,372.5
+Unknown Region,Lakes Entrance,5,345.0
+Unknown Region,Lancefield,1,300.0
+Unknown Region,Langwarrin,3,475.0
+Unknown Region,Laverton,5,500.0
+Unknown Region,Leopold,1,495.0
+Unknown Region,Longwarry,1,420.0
+Unknown Region,Lorne,1,625.0
+Unknown Region,Lower Plenty,2,485.0
+Unknown Region,Macleod,3,300.0
+Unknown Region,Maidstone,6,422.5
+Unknown Region,Mansfield,2,440.0
+Unknown Region,Maribyrnong,29,500.0
+Unknown Region,Marlo,1,300.0
+Unknown Region,Marshall,1,450.0
+Unknown Region,Maryborough,2,265.0
+Unknown Region,McKinnon,1,850.0
+Unknown Region,Mernda,1,380.0
+Unknown Region,Metung,1,390.0
+Unknown Region,Moorabbin,3,660.0
+Unknown Region,Mooroolbark,3,620.0
+Unknown Region,Mooroopna,1,370.0
+Unknown Region,Muckleford,1,320.0
+Unknown Region,Nagambie,1,430.0
+Unknown Region,Natimuk,1,200.0
+Unknown Region,Newcomb,6,315.0
+Unknown Region,Newhaven,1,480.0
+Unknown Region,Nichols Point,1,295.0
+Unknown Region,Niddrie,3,525.0
+Unknown Region,Norlane,4,395.0
+Unknown Region,Numurkah,1,195.0
+Unknown Region,Ormond,23,510.0
+Unknown Region,Patterson Lakes,6,570.0
+Unknown Region,Penshurst,1,220.0
+Unknown Region,Point Cook,1,470.0
+Unknown Region,Porepunkah,1,160.0
+Unknown Region,Portarlington,2,435.0
+Unknown Region,Queenscliff,2,450.0
+Unknown Region,Red Cliffs,1,260.0
+Unknown Region,Redan,7,320.0
+Unknown Region,Riddells Creek,2,510.0
+Unknown Region,Rippleside,2,662.5
+Unknown Region,Ripponlea,5,500.0
+Unknown Region,Rosanna,3,480.0
+Unknown Region,Rosebud,4,510.0
+Unknown Region,Rye,2,515.0
+Unknown Region,Safety Beach,2,810.0
+Unknown Region,San Remo,1,540.0
+Unknown Region,Sandringham,8,682.5
+Unknown Region,Somerville,1,500.0
+Unknown Region,Sorrento,3,698.0
+Unknown Region,Stawell,1,265.0
+Unknown Region,Strathmore,5,500.0
+Unknown Region,Tarneit,1,500.0
+Unknown Region,Tatura,1,250.0
+Unknown Region,Timboon,1,475.0
+Unknown Region,Towong Upper,1,300.0
+Unknown Region,Trafalgar,1,330.0
+Unknown Region,Travancore,10,510.0
+Unknown Region,Truganina,3,450.0
+Unknown Region,Tungamah,1,320.0
+Unknown Region,Wahgunyah,1,400.0
+Unknown Region,Wallan,1,410.0
+Unknown Region,Wangaratta,7,350.0
+Unknown Region,Warracknabeal,1,220.0
+Unknown Region,Watsonia,1,665.0
+Unknown Region,Wedderburn,1,200.0
+Unknown Region,Westmeadows,1,650.0
+Unknown Region,Whittington,1,395.0
+Unknown Region,Williams Landing,1,470.0
+Unknown Region,Winchelsea,1,290.0
+Unknown Region,Woodend,1,460.0
+Unknown Region,Yarrawonga,2,475.0
+Unknown Region,Yea,1,250.0
