@@ -44,3 +44,11 @@ Our primary research goal is to answer the following questions:
 #### Step 4: Identifying Liveable and Affordable Suburbs (Q3)
 - **Scatter Plots and Model Evaluation**: Check the `Question 3` file in the `plot` directory for scatter plots and model evaluation result graphs.
 - **Livable and Affordable Index Outputs**: Refer to `question3 modified.ipynb` in the `models` directory for index outputs and model training results.
+
+### Conclusion and Acknowledgements
+
+Through this project, we conducted a preliminary analysis of the key factors influencing rental prices in Victoria, predicted future growth potential, and evaluated livability and affordability. Our research provides some initial insights into the real estate market in Victoria, assisting stakeholders in making more informed decisions.
+
+However, we also acknowledge certain limitations in this project, such as the time span of the data and the completeness of the data sources, which may affect the accuracy of the results. In future research, we plan to improve data acquisition and processing methods to enhance the depth and reliability of our analysis.
+
+Lastly, we appreciate the support and guidance provided by our tutor throughout the project.
