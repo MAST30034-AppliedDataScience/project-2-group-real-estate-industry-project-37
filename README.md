@@ -6,7 +6,7 @@ Team Members：
 4. Peiyan Chen (1317103)
 5. Peilin Liu (1342891)
 
-Groups should generate their own suitable `README.md`.
+
 
 # Step 1 Data processing: 
 1. See the `CrawlingDatasets.ipynb` file in the `notebooks` directory to get the information of the scraping data. 
