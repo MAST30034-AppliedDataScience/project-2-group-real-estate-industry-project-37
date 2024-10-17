@@ -23,22 +23,24 @@ Our primary research goal is to answer the following questions:
 - statsmodels
 - Google API Client Library
    
-# Step 1 Data processing: 
-1. See the `CrawlingDatasets.ipynb` file in the `notebooks` directory to get the information of the scraping data. 
-2. See the `DataPreprocessing.ipynb` file in the `notebooks` directory to obtain the datasets after preprocessed.
-3. See the `Domain 2024 Data` file in the `data` directory to get the raw data categorised into different regions. 
-4. See the `Suburb rental prices data` file in the `data` directory to get the different rental price from each suburb. 
+### Project Workflow
 
-# Step 2 (Q1 External and Internal features):
-1. See the `Question 1` file in the `plot` directory to get the correlation graphs for internal and external features.
-2. See the `DataCorrelation.ipynb` file in the `notebooks` directory to obtain the outputs of correlation (each feature is outlined in the notebook). 
+#### Step 1: Data Processing
+- **Crawling Data**: Refer to `CrawlingDatasets.ipynb` in the `notebooks` directory for information on data scraping.
+- **Preprocessing Data**: Check `DataPreprocessing.ipynb` in the `notebooks` directory for preprocessed datasets.
+- **Raw Data**: See the `Domain 2024 Data` file in the `data` directory for raw data categorized by different regions.
+- **Suburb Rental Prices**: Access the `Suburb rental prices data` file in the `data` directory for rental prices from each suburb.
 
-# Step 3 (Q2 Top 10 suburbs): 
-1. See the `Question 2` file in the `plot` directory to get the growth rate graphs for the top 10 suburbs.
-2. See the `Suburb growth visualisation.ipynb` file in the `notebooks` directory to get output of graphs for the top 10 suburbs. 
-3. See the `Historical rental growth` file in the `notebooks` directory to obtain historical growth rates from each region and suburb. 
-4. See the `Time series rental price` file in the `notebooks` directory to obtain future predictive growth rates from each region and suburb. 
+#### Step 2: Identifying Internal and External Features (Q1)
+- **Correlation Graphs**: View the `Question 1` file in the `plot` directory for correlation graphs of internal and external features.
+- **Data Correlation Output**: Check `DataCorrelation.ipynb` in the `notebooks` directory for the correlation outputs, outlining each feature.
 
-# Step 4 (Q3 Livable and affordable):
-1. See the `Question 3` file in the `plot` directory to scatter plots and model evaluation results graphs.
-2. See the `question3 modified.ipynb` file in the `models` directory to livable and afforadable index outputs and model training results.
+#### Step 3: Top 10 Suburbs with Highest Growth Rate (Q2)
+- **Growth Rate Graphs**: See the `Question 2` file in the `plot` directory for growth rate graphs of the top 10 suburbs.
+- **Graph Output**: Refer to `Suburb growth visualisation.ipynb` in the `notebooks` directory for graphical outputs of the top 10 suburbs.
+- **Historical Growth Rates**: Find detailed historical growth rates in the `Historical rental growth` file in the `notebooks` directory.
+- **Future Predictive Growth**: Access the `Time series rental price` file in the `notebooks` directory for future predictive growth rates.
+
+#### Step 4: Identifying Liveable and Affordable Suburbs (Q3)
+- **Scatter Plots and Model Evaluation**: Check the `Question 3` file in the `plot` directory for scatter plots and model evaluation result graphs.
+- **Livable and Affordable Index Outputs**: Refer to `question3 modified.ipynb` in the `models` directory for index outputs and model training results.
