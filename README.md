@@ -10,9 +10,9 @@ Team Members：
 
 Our primary research goal is to answer the following questions:
 
-Q1 : What are the most important internal and external features in predicting rental prices? (This can be at the granularity of the groups’ choosing)
-Q2 : What are the top 10 suburbs with the highest predicted growth rate?
-Q3 : What are the most liveable and affordable suburbs according to your chosen metrics?
+ Q1 : What are the most important internal and external features in predicting rental prices? 
+ Q2 : What are the top 10 suburbs with the highest predicted growth rate?
+ Q3 : What are the most liveable and affordable suburbs according to your chosen metrics?
 
 # Step 1 Data processing: 
 1. See the `CrawlingDatasets.ipynb` file in the `notebooks` directory to get the information of the scraping data. 
