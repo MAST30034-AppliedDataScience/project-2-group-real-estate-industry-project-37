@@ -1,4 +1,11 @@
 # Generic Real Estate Consulting Project
+Team Members：
+Haozhou Du (1346881)
+Xinyue Deng (1321845)
+Yuzheng Wan (1346511)
+Peiyan Chen (1317103)
+Peilin Liu (1342891)
+
 Groups should generate their own suitable `README.md`.
 
 # Step 1 Data processing: 
