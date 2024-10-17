@@ -13,6 +13,16 @@ Our primary research goal is to answer the following questions:
  1. What are the most important internal and external features in predicting rental prices? 
  2. What are the top 10 suburbs with the highest predicted growth rate?
  3. What are the most liveable and affordable suburbs according to your chosen metrics?
+### Setup
+
+**Python 3 dependencies:**
+- Pyspark
+- Pandas, Numpy
+- Seaborn, matplotlib
+- Scikit-Learn
+- Beautiful Soup
+- statsmodels
+- Google API Client Library
    
 # Step 1 Data processing: 
 1. See the `CrawlingDatasets.ipynb` file in the `notebooks` directory to get the information of the scraping data. 
